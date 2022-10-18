@@ -1,0 +1,104 @@
+<html>
+ <body>
+  <div>
+   <overview-container>
+   </overview-container>
+   <!-- start video banner -->
+   <pc-video-banner bg-image="https://res.cloudinary.com/it-production/image/upload/v1662643324/Product_Images/en/products/010-02672-00/g/43702-D-VIDEO-SEPT08.jpg" data-translate="" img-alt="video" mobile-bg-image="https://res.cloudinary.com/it-production/image/upload/v1660827571/Product_Images/en/products/010-02672-00/g/43702-M-VID.jpg" not-youtube="false" theme="dark" video-link="https://www.youtube-nocookie.com/embed/qbPkvR5sYqk" video-title="Youtube Video">
+   </pc-video-banner>
+   <!-- end video banner -->
+   <!-- start overview intro -->
+   <pc-overview-intro data-translate="" description="Ten niewielki, wytrzymały komunikator satelitarny&lt;sup&gt;1&lt;/sup&gt; działa poza zasięgiem sieci komórkowych, umożliwiając kontakt ze znajomymi i rodziną dzięki dwukierunkowym wiadomościom tekstowym o globalnym zasięgu." description-align="center" description-size="large" theme="light" title="DOM JEST BLIŻEJ, NIŻ MYŚLISZ" title-align="center" title-heading="h2">
+    <pc-feature-card data-translate="" description="Możesz pozostać w kontakcie z najbliższymi, nawet bez zasięgu sieci komórkowej." image="https://res.garmin.com/gdc/Product_Pages/ICONS/Connected_Featured.svg" img-alt="" img-width="50px" title="">
+    </pc-feature-card>
+    <pc-feature-card data-translate="" description="Sparuj urządzenie inReach z aplikacją Garmin Messenger™ w zgodnym smartfonie, aby wysyłać wiadomości przez sieć satelitarną lub komórkową." image="https://static.garmincdn.com/gdc/Product_Pages/ICONS/Connected-GPS.svg" img-alt="" img-width="50px" title="">
+    </pc-feature-card>
+    <pc-feature-card data-translate="" description="Potrzebujesz pomocy w nagłych wypadkach? Wyślij interaktywny sygnał SOS do naszego centrum koordynacyjnego." image="https://static.garmincdn.com/gdc/Product_Pages/ICONS/Alert.svg" img-alt="" img-width="50px" title="">
+    </pc-feature-card>
+    <pc-feature-card data-translate="" description="Gdy musisz mieć pewność, wyświetlacz urządzenia potwierdza, że wiadomość została wysłana." image="https://static.garmincdn.com/gdc/Product_Pages/ICONS/inReach.svg" img-alt="" img-width="50px" title="">
+    </pc-feature-card>
+    <pc-feature-card data-translate="" description="Używaj wstępnie ustawionych wiadomości, aby w łatwy sposób utrzymywać kontakt podczas podróży." image="https://static.garmincdn.com/gdc/Product_Pages/ICONS/Messaging.svg" img-alt="" img-width="50px" title="">
+    </pc-feature-card>
+    <pc-feature-card data-translate="" description="Dzięki nawet 28 dniom pracy baterii pomiędzy kolejnymi cyklami ładowania możesz pozostać w podróży dłużej." image="https://static.garmincdn.com/gdc/Product_Pages/ICONS/Battery_Life.svg" img-alt="" img-width="50px" title="">
+    </pc-feature-card>
+   </pc-overview-intro>
+   <!-- end overview intro -->
+  </div>
+  <div>
+   <!-- start life style -->
+   <pc-life-style bg-image="https://res.cloudinary.com/it-production/image/upload/v1659986396/Product_Images/en/products/010-02672-00/g/43702-D-1.jpg" button-text="" data-translate="" img-alt="" img-width="" link="" mobile-bg-image="https://res.cloudinary.com/it-production/image/upload/v1659986396/Product_Images/en/products/010-02672-00/g/43702-M-1.jpg" mobile-text-align="center" mobile-text-position="top" mobile-text-size="3" text="Wysyłaj wiadomości z dowolnego miejsca na Ziemi." text-align="right" text-size="3" theme="dark">
+   </pc-life-style>
+   <!-- end life style -->
+   <!-- start product feature section -->
+   <pc-layout-container>
+    <pc-column-layout>
+     <pc-feature-card data-translate="" description="Prosty interfejs &lt;a href='https://www.garmin.com/pl-PL/p/893837'&gt;aplikacji Garmin Messenger&lt;/a&gt; w smartfonie ułatwia wymianę wiadomości tekstowych z bliskimi za pośrednictwem satelity lub sieci komórkowej." image="https://res.cloudinary.com/it-production/image/upload/v1654874225/Product_Images/en/products/010-02672-00/g/43702-1.jpg" img-alt="" img-width="350px" title="DWUKIERUNKOWA KOMUNIKACJA">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Zoptymalizowany system komunikacji inReach wykorzystuje połączenie komórkowe Twojego smartfona, gdy jest ono dostępne, a następnie płynnie przełącza się na sieć satelitarną Iridium&lt;sup&gt;®&lt;/sup&gt; o globalnym zasięgu, gdy znajdziesz się poza zasięgiem sieci komórkowej." image="https://res.cloudinary.com/it-production/image/upload/v1654874225/Product_Images/en/products/010-02672-00/g/43702-2.jpg" img-alt="" img-width="350px" title="STABILNE POŁĄCZENIE">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Dzięki aplikacji Garmin Messenger połączenie inReach umożliwia grupowe przesyłanie i dystrybucję wiadomości. Możesz więc udostępniać swoje przygody wielu kontaktom jednocześnie — a także prowadzić grupowe rozmowy tekstowe ze znajomymi i rodziną." image="https://res.cloudinary.com/it-production/image/upload/v1654874225/Product_Images/en/products/010-02672-00/g/43702-3.jpg" img-alt="" img-width="350px" title="WIADOMOŚCI GRUPOWE">
+     </pc-feature-card>
+    </pc-column-layout>
+    <pc-column-layout>
+     <pc-feature-card data-translate="" description="W sytuacji awaryjnej możesz nadać interaktywny sygnał SOS do Garmin IERCC — całodobowego centrum koordynacji reagowania kryzysowego." image="https://res.cloudinary.com/it-production/image/upload/v1654874225/Product_Images/en/products/010-02672-00/g/43702-4.jpg" img-alt="" img-width="350px" title="INTERAKTYWNE ALERTY SOS">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Możesz też w dowolnym momencie udostępnić swoją pozycję bliskim w domu za pomocą strony MapShare™ lub współrzędnych GPS osadzonych w wiadomościach." image="https://res.cloudinary.com/it-production/image/upload/v1654874228/Product_Images/en/products/010-02672-00/g/43702-11.jpg" img-alt="" img-width="350px" title="UDOSTĘPNIANIE LOKALIZACJI">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Aby uzyskać dostęp do globalnej sieci Iridium i łączności z urządzeniem inReach Messenger, potrzebna jest aktywna &lt;a href='https://discover.garmin.com/pl-PL/inreach/personal/#subscriptions'&gt;subskrypcja&lt;/a&gt; usługi satelitarnej. Dostępny jest pakiet z roczną umową i elastyczny plan miesięczny." image="https://res.cloudinary.com/it-production/image/upload/v1654874225/Product_Images/en/products/010-02672-00/g/43702-6.jpg" img-alt="" img-width="350px" title="ELASTYCZNE PLANY USŁUG SATELITARNYCH">
+     </pc-feature-card>
+    </pc-column-layout>
+    <pc-column-layout>
+     <pc-feature-card data-translate="" description="Nie daj się zwieść niedużej wielkości urządzenia mierzącego 3,1″ × 2,5″ i ważącego 114 gram. inReach Messenger jest wytrzymały, trwały, odporny na uderzenia &lt;a href='https://www.garmin.com/pl-PL/legal/waterrating'&gt;i wodoodporny (klasa IPX7).&lt;/a&gt; " image="https://res.cloudinary.com/it-production/image/upload/v1654874227/Product_Images/en/products/010-02672-00/g/43702-7.jpg" img-alt="" img-width="350px" title="KOMPAKTOWA I WYTRZYMAŁA KONSTRUKCJA">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Potrzebujesz zapasowej opcji na wypadek, gdyby padła bateria Twojego zgodnego smartfona? Wystarczy podłączyć urządzenie inReach Messenger do telefonu, aby uzyskać wystarczające doładowanie bezpieczeństwa, aby wysłać niestandardową wiadomość tekstową z urządzenia inReach Messenger za pośrednictwem ekranu dotykowego telefonu." image="https://res.cloudinary.com/it-production/image/upload/v1654874227/Product_Images/en/products/010-02672-00/g/43702-8.jpg" img-alt="" img-width="350px" title="ŁADOWANIE AWARYJNE">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Wewnętrzny akumulator bateria litowy zapewnia do 28 dni pracy w trybie 10-minutowego śledzenia. Możesz zatem robić to, co kochasz dłużej pomiędzy kolejnymi cyklami ładowania." image="https://res.cloudinary.com/it-production/image/upload/v1654874227/Product_Images/en/products/010-02672-00/g/43702-9.jpg" img-alt="" img-width="350px" title="BARDZO DŁUGI CZAS DZIAŁANIA BATERII">
+     </pc-feature-card>
+    </pc-column-layout>
+   </pc-layout-container>
+   <!-- end product feature section -->
+   <!-- start life style -->
+   <pc-life-style bg-image="https://res.cloudinary.com/it-production/image/upload/v1659986396/Product_Images/en/products/010-02672-00/g/43702-D-2.jpg" button-text="" data-translate="" img-alt="" img-width="" link="" mobile-bg-image="https://res.cloudinary.com/it-production/image/upload/v1659986396/Product_Images/en/products/010-02672-00/g/43702-M-VID.jpg" mobile-text-align="center" mobile-text-position="top" mobile-text-size="3" text="Podłącz urządzenie do sieci, aby uzyskać dostęp do większej liczby funkcji." text-align="left" text-size="3" theme="dark">
+   </pc-life-style>
+   <!-- end life style -->
+   <!-- start product feature section -->
+   <pc-layout-container>
+    <pc-column-layout>
+     <pc-feature-card data-translate="" description="Aplikacja Garmin Messenger może zsynchronizować się z książką adresową Twojego zgodnego smartfona, aby kontakt ze światem był jeszcze łatwiejszy." image="https://res.cloudinary.com/it-production/image/upload/v1654874228/Product_Images/en/products/010-02672-00/g/43702-10.jpg" img-alt="" img-width="350px" title="SYNCHRONIZACJA LISTY KONTAKTÓW">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Wysokiej klasy ekran urządzenia inReach Messenger z technologią memory-in-pixel daje możliwość sprawdzenia potwierdzenia wysłania wiadomości, a odpowiedzi można przeczytać nawet bezpośrednio na urządzeniu." image="https://res.cloudinary.com/it-production/image/upload/v1654874225/Product_Images/en/products/010-02672-00/g/43702-5.jpg" img-alt="" img-width="350px" title="WYŚWIETLANIE W URZĄDZENIU">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Utrzymuj kontakt bezpośrednio z poziomu komunikatora inReach Messenger za pomocą zaprogramowanych wiadomości, które nie wliczają się do limitu wiadomości tekstowych przy aktywnym abonamencie satelitarnym." image="https://res.cloudinary.com/it-production/image/upload/v1657204930/Product_Images/en/products/010-02672-00/g/43702-QUICKTEXT.jpg" img-alt="" img-width="350px" title="WIADOMOŚCI KONTROLNE">
+     </pc-feature-card>
+    </pc-column-layout>
+    <pc-column-layout>
+     <pc-feature-card data-translate="" description="Zdalnie steruj urządzeniem inReach Messenger, aby wysyłać i odbierać wiadomości tekstowe lub uruchamiać interaktywne sygnały SOS za pomocą zgodnych urządzeń mobilnych firmy Garmin, sprzętu morskiego, lotniczego, urządzeń do noszenia lub innych wybranych urządzeń inteligentnych." image="https://res.cloudinary.com/it-production/image/upload/v1654874227/Product_Images/en/products/010-02672-00/g/43702-12.jpg" img-alt="" img-width="350px" title="INNE URZĄDZENIA GARMIN">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Otrzymuj szczegółowe informacje o pogodzie w aplikacji inReach Messenger lub sparowanym zgodnym urządzeniu. Możesz nawet poprosić o prognozę pogody dla aktualnej pozycji, innych punktów na trasie lub celów podróży." image="https://res.cloudinary.com/it-production/image/upload/v1662104128/Product_Images/en/products/010-02672-00/g/43702-13-EMEA.jpg" img-alt="" img-width="350px" title="USŁUGA PROGNOZY POGODY INREACH">
+     </pc-feature-card>
+     <pc-feature-card data-translate="" description="Funkcja wyznaczania trasy TracBack umożliwia powrót do punktu startowego po tej samej trasie w razie zgubienia się — bezpośrednio w urządzeniu." image="https://res.cloudinary.com/it-production/image/upload/v1660161767/Product_Images/en/products/010-02672-00/g/43702-TRAC.jpg" img-alt="" img-width="350px" title="WYZNACZANIE TRASY TRACBACK">
+     </pc-feature-card>
+    </pc-column-layout>
+   </pc-layout-container>
+   <!-- end product feature section -->
+   <!-- start learn more section -->
+   <pc-layout-container size="medium" theme="neutral">
+    <pc-column-layout columns="2">
+     <pc-learn-more bg-image="https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-D.jpg" button-text="Więcej" data-translate="" description="" img-alt="" link="https://discover.garmin.com/pl-PL/inreach/personal/" mobile-bg-image="https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-BOX-M.jpg" theme="light" title="Bądź w kontakcie na całym świecie dzięki technologii satelitarnej inReach®">
+     </pc-learn-more>
+     <pc-learn-more bg-image="https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-Messenger-BOX-D.jpg" button-text="Więcej" data-translate="" description="" img-alt="" link="https://www.garmin.com/pl-PL/p/893837" mobile-bg-image="https://static.garmincdn.com/gdc/Product_Pages/LEARN-MORE-CARDS/inReach-Messenger-BOX-M.jpg" theme="light" title="Aplikacja Garmin Messenger™ pozwala zachować kontakt poza zasięgiem sieci">
+     </pc-learn-more>
+    </pc-column-layout>
+   </pc-layout-container>
+   <!-- end learn more section -->
+   <!-- start disclaimer section -->
+   <pc-layout-container size="" theme="neutral">
+    <pc-disclaimer-block>
+     <pc-disclaimer-item content="Wymaga subskrypcji satelitarnej. W niektórych regionach używanie komunikacji satelitarnej jest prawnie regulowane lub zabronione. Używanie urządzenia w danym regionie wymaga od użytkownika znajomości i przestrzegania przepisów dotyczących ochrony prywatności." counter="1" data-translate="">
+     </pc-disclaimer-item>
+    </pc-disclaimer-block>
+   </pc-layout-container>
+   <!-- end disclaimer section -->
+  </div>
+ </body>
+</html>
