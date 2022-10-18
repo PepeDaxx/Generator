@@ -87,9 +87,10 @@ class GarminScrapper():
                 except:
                     flag = 0
                 if flag == '2':
-                    scrapped_data['TABLE'].append(['paragraph', x.text])
+                    scrapped_data['TABLE'].append(['paragraph', x.text.replace('\n','')])
                 elif x.text != '':
-                    scrapped_data['TABLE'][-1].append(x.text)
+                    raw = x.getText('<br>')
+                    scrapped_data['TABLE'][-1].append(raw)
                 else:
                     scrapped_data['TABLE'][-1].append('yes')
         return scrapped_data

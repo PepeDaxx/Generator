@@ -61,5 +61,16 @@ class Builder():
         description += '</div>\n'
         return description
     def build_table(self,data):
-        print(data)
-        return ''
+        builded_table = '<table id="t01"><tbody>\n'
+        for item in data:
+            if item[0] == 'paragraph':
+                builded_table += f'<tr class="title"><td colspan="2"><h2>{item[1]}</h2></td></tr>\n'
+            elif item[0] == 'row':
+                builded_table += f'<tr><th scope="row">{item[1]}</th>'
+                if item[2] == 'yes':
+                    builded_table += '<td class="yes"></td>'
+                else:
+                    builded_table += f'<td>{item[2]}</td>'
+                builded_table += '</tr>\n'
+
+        return builded_table

@@ -1,0 +1,264 @@
+<table id="t01"><tbody>
+<tr class="title"><td colspan="2"><h2>Ogólne</h2></td></tr>
+<tr><th scope="row">MATERIAŁ SOCZEWKI</th><td>Power Sapphire™</td></tr>
+<tr><th scope="row">Materiał ramki</th><td>Tytanowy</td></tr>
+<tr><th scope="row">Obudowa</th><td>Polimer wzmocniony włóknem szklanym i tytanowa pokrywa tylna</td></tr>
+<tr><th scope="row">Zgodność z opaską QuickFit™</th><td>w zestawie (22 mm)</td></tr>
+<tr><th scope="row">Materiał paska</th><td>Silikon</td></tr>
+<tr><th scope="row">ROZMIAR KOPERTY (szer. × dł. × wys.)</th><td>47 x 47 x 14.5 mm<br> Pasuje na nadgarstki o tych obwodach:<br> Pasek silikonowy: 125-208 mm<br> Pasek skórzany: 132-210 mm<br> Pasek z tkaniny: 132-210 mm<br> Pasek metalowy: 132-215 mm</td></tr>
+<tr><th scope="row">Ekran dotykowy</th><td class="yes"></td></tr>
+<tr><th scope="row">Kolorowy wyświetlacz</th><td class="yes"></td></tr>
+<tr><th scope="row">Wymiary wyświetlacza, szer. x wys.</th><td>Średnica 1,30″ (33,02 mm)</td></tr>
+<tr><th scope="row">Rozdzielczość wyświetlacza, szer. x wys.</th><td>260 × 260 pikseli</td></tr>
+<tr><th scope="row">Typ wyświetlacza</th><td>Czytelny w słońcu, transreflektywny Memory-In-Pixel (MIP)</td></tr>
+<tr><th scope="row">Masa</th><td>73 g z silikonowym paskiem (obudowa: 50 g)</td></tr>
+<tr><th scope="row">Klasa wodoszczelności</th><td>10 ATM</td></tr>
+<tr><th scope="row">Czas działania baterii</th><td>Tryb zegarka: do 18 dni / 22 dni przy ładowaniu energią słoneczną*<br> Tryb oszczędzania baterii zegarka: do 57 dni / 173 dni przy ładowaniu energią słoneczną*<br> Tylko GPS: do 57 godz. / 73 godz. przy ładowaniu energią słoneczną**<br> Wszystkie systemy satelitarne: do 40 godz. / 48 godz. przy ładowaniu energią słoneczną*<br> Wszystkie systemy satelitarne i wielopasmowe: do 23 godz. / 26 godz. przy ładowaniu energią słoneczną**<br> Wszystkie systemy satelitarne i muzyka: do 10 godz.<br> Maksymalny czas pracy baterii w trybie GPS: do 136 godz. / 289 godz. przy ładowaniu energią słoneczną**<br> Tryb GPS wycieczki: do 40 dni / 74 dni przy ładowaniu energią słoneczną*<br> * Ładowanie energią słoneczną przy założeniu całodziennego użytkowania w tym 3 godzin pracy dziennie na powietrzu przy oświetleniu 50 000 luksów<br> ** Ładowanie energią słoneczną przy założeniu użytkowania przy oświetleniu 50 000 luksów</td></tr>
+<tr><th scope="row">Pamięć/historia</th><td>32 GB</td></tr>
+<tr class="title"><td colspan="2"><h2>Cechy zegarka</h2></td></tr>
+<tr><th scope="row">Czas/data</th><td>tak</td></tr>
+<tr><th scope="row">Synchronizacja czasu przez GPS</th><td class="yes"></td></tr>
+<tr><th scope="row">Automatyczny czas letni</th><td class="yes"></td></tr>
+<tr><th scope="row">Budzik</th><td class="yes"></td></tr>
+<tr><th scope="row">Minutnik</th><td class="yes"></td></tr>
+<tr><th scope="row">Stoper</th><td class="yes"></td></tr>
+<tr><th scope="row">Godzina wschodu/zachodu słońca</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Monitorowanie stanu zdrowia</h2></td></tr>
+<tr><th scope="row">Nadgarstkowy pomiar tętna (stały, co sekundę)</th><td class="yes"></td></tr>
+<tr><th scope="row">Średnie dzienne tętno spoczynkowe</th><td class="yes"></td></tr>
+<tr><th scope="row">Alerty nietypowo wysokiego tętna</th><td>Tak (wysokie i niskie)</td></tr>
+<tr><th scope="row">Oddychanie (24x7)</th><td class="yes"></td></tr>
+<tr><th scope="row">Pomiar pulsoksymetru dot. poziomu tlenu we krwi</th><td class="yes"></td></tr>
+<tr><th scope="row">Wiek sprawnościowy</th><td>tak (w aplikacji)</td></tr>
+<tr><th scope="row">Monitor energii Body Battery™</th><td class="yes"></td></tr>
+<tr><th scope="row">Całodniowe śledzenie stresu</th><td class="yes"></td></tr>
+<tr><th scope="row">Minutnik oddechu relaksacyjnego</th><td class="yes"></td></tr>
+<tr><th scope="row">Sen</th><td>Tak (zaawansowane)</td></tr>
+<tr><th scope="row">Monitorowanie snu (wyniki snu i analizy)</th><td class="yes"></td></tr>
+<tr><th scope="row">Nawodnienie</th><td>Tak (w serwisie Garmin Connect™ i opcjonalnym widżecie Connect IQ™)</td></tr>
+<tr><th scope="row">Monitorowanie zdrowia kobiet</th><td>Tak (w serwisie Garmin Connect™ i opcjonalnym widżecie Connect IQ™)</td></tr>
+<tr><th scope="row">Health snapshot</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Czujniki</h2></td></tr>
+<tr><th scope="row">GPS</th><td class="yes"></td></tr>
+<tr><th scope="row">GLONASS</th><td class="yes"></td></tr>
+<tr><th scope="row">Galileo</th><td class="yes"></td></tr>
+<tr><th scope="row">Pozycjonowanie na wielu częstotliwościach</th><td class="yes"></td></tr>
+<tr><th scope="row">SatIQ™ Technology</th><td class="yes"></td></tr>
+<tr><th scope="row">Nadgarstkowy pomiar tętna Garmin Elevate™</th><td class="yes"></td></tr>
+<tr><th scope="row">Wysokościomierz barometryczny</th><td class="yes"></td></tr>
+<tr><th scope="row">Kompas</th><td class="yes"></td></tr>
+<tr><th scope="row">Żyroskop</th><td class="yes"></td></tr>
+<tr><th scope="row">Akcelerometr</th><td class="yes"></td></tr>
+<tr><th scope="row">Termometr</th><td class="yes"></td></tr>
+<tr><th scope="row">Pulsoksymetr do monitorowania stopnia aklimatyzacji</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje telefoniczne przydatne na co dzień</h2></td></tr>
+<tr><th scope="row">Łączność</th><td>Bluetooth®, ANT+®, Wi-Fi®</td></tr>
+<tr><th scope="row">Aplikacja Connect IQ™ (tarcze zegarka, pola danych, widżety i aplikacje)</th><td class="yes"></td></tr>
+<tr><th scope="row">Sklep Connect IQ™ w urządzeniu</th><td class="yes"></td></tr>
+<tr><th scope="row">Powiadomienia Z Telefonu</th><td class="yes"></td></tr>
+<tr><th scope="row">Odpowiedź tekstowa / odrzuć połączenie za pomocą wiadomości tekstowej (tylko dla systemu Android™)</th><td class="yes"></td></tr>
+<tr><th scope="row">Kalendarz</th><td class="yes"></td></tr>
+<tr><th scope="row">Prognoza pogody</th><td class="yes"></td></tr>
+<tr><th scope="row">Synchronizacja ustawień w czasie rzeczywistym z Garmin Connect™ Mobile</th><td class="yes"></td></tr>
+<tr><th scope="row">Oszczędzanie baterii – tryb zegarka o niskim poborze mocy z możliwością dostosowania</th><td class="yes"></td></tr>
+<tr><th scope="row">Sterowanie muzyką</th><td class="yes"></td></tr>
+<tr><th scope="row">Odtwarza muzykę</th><td class="yes"></td></tr>
+<tr><th scope="row">Pamięć na muzykę</th><td>Do 2000 utworów</td></tr>
+<tr><th scope="row">Znajdź mój telefon</th><td class="yes"></td></tr>
+<tr><th scope="row">Funkcja Znajdź Mój Zegarek</th><td class="yes"></td></tr>
+<tr><th scope="row">Pilot VIRB®</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność ze smartfonami</th><td>iPhone®, Android™</td></tr>
+<tr><th scope="row">Parowanie z aplikacją Garmin Golf</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność z Garmin Connect™ Mobile</th><td class="yes"></td></tr>
+<tr><th scope="row">Akcje</th><td class="yes"></td></tr>
+<tr><th scope="row">Garmin Pay™</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje bezpieczeństwa i monitorowania</h2></td></tr>
+<tr><th scope="row">Aplikacja LiveTrack</th><td class="yes"></td></tr>
+<tr><th scope="row">Group LiveTrack</th><td class="yes"></td></tr>
+<tr><th scope="row">Udostępnianie zdarzeń na żywo</th><td class="yes"></td></tr>
+<tr><th scope="row">Wykrywanie zdarzeń podczas wybranych aktywności</th><td class="yes"></td></tr>
+<tr><th scope="row">Pomoc</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje taktyczne</h2></td></tr>
+<tr><th scope="row">Podwójna siatka współrzędnych</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje śledzenia aktywności</h2></td></tr>
+<tr><th scope="row">Licznik kroków</th><td class="yes"></td></tr>
+<tr><th scope="row">Pasek ruchu (wyświetlany w urządzeniu po ukończeniu aktywności; wystarczy chodzić przez kilka minut, aby go zresetować)</th><td class="yes"></td></tr>
+<tr><th scope="row">Cel automatyczny (rozpoznaje poziom aktywności użytkownika i wyznacza dzienny cel kroków)</th><td class="yes"></td></tr>
+<tr><th scope="row">Spalone kalorie</th><td class="yes"></td></tr>
+<tr><th scope="row">Piętra w górę</th><td class="yes"></td></tr>
+<tr><th scope="row">Przebyty dystans</th><td class="yes"></td></tr>
+<tr><th scope="row">Minuty intensywnej aktywności</th><td class="yes"></td></tr>
+<tr><th scope="row">Funkcja TrueUp™</th><td class="yes"></td></tr>
+<tr><th scope="row">Funkcja Move IQ™</th><td class="yes"></td></tr>
+<tr><th scope="row">Aplikacja Garmin Connect ™ Challenges</th><td>Tak (opcjonalna aplikacja Connect IQ)</td></tr>
+<tr class="title"><td colspan="2"><h2>Sprzęt fitness / siłownia</h2></td></tr>
+<tr><th scope="row">Automatyczne liczenie powtórzeń</th><td class="yes"></td></tr>
+<tr><th scope="row">Dostępne profile aktywności na siłowni</th><td>Trening siłowy, trening interwałowy o wysokiej intensywności (HIIT), trening wydolnościowy, trening na maszynie eliptycznej, schody, pokonywanie pięter, wiosłowanie stacjonarne, pilates i joga</td></tr>
+<tr><th scope="row">Treningi siłowe</th><td class="yes"></td></tr>
+<tr><th scope="row">Treningi HIIT</th><td class="yes"></td></tr>
+<tr><th scope="row">Treningi jogi</th><td class="yes"></td></tr>
+<tr><th scope="row">Treningi Pilates</th><td class="yes"></td></tr>
+<tr><th scope="row">Animacje treningowe na ekranie</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje szkolenia, planowania i analizy</h2></td></tr>
+<tr><th scope="row">Strefy tętna</th><td class="yes"></td></tr>
+<tr><th scope="row">Alerty tętna</th><td class="yes"></td></tr>
+<tr><th scope="row">Kalorie na podstawie tętna</th><td class="yes"></td></tr>
+<tr><th scope="row">% maksymalnego tętna</th><td class="yes"></td></tr>
+<tr><th scope="row">% rezerwy tętna</th><td class="yes"></td></tr>
+<tr><th scope="row">Czas odpoczynku</th><td class="yes"></td></tr>
+<tr><th scope="row">Automatyczne tętno maksymalne</th><td class="yes"></td></tr>
+<tr><th scope="row">Widok/widżet wyścigu</th><td class="yes"></td></tr>
+<tr><th scope="row">Status zmienności tętna</th><td class="yes"></td></tr>
+<tr><th scope="row">Gotowość do treningu</th><td class="yes"></td></tr>
+<tr><th scope="row">Pomiar tętna do wysiłku (urządzenie mierzy zmienność tętna przez 3 minuty, gdy użytkownik stoi w miejscu, aby zbadać szacowane natężenie wysiłku; wynik jest przedstawiony na skali 1 do 100, gdzie niskie wartości oznaczają niski poziom natężenia wysiłku)</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Przesyłanie sygnałów tętna (przesyłanie danych tętna przez ANT+™ do sparowanego urządzenia)</th><td class="yes"></td></tr>
+<tr><th scope="row">Częstotliwość oddechu (podczas ćwiczeń)</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Prędkość i dystans GPS</th><td class="yes"></td></tr>
+<tr><th scope="row">Strony własnych danych</th><td class="yes"></td></tr>
+<tr><th scope="row">Niestandardowe profile danych</th><td class="yes"></td></tr>
+<tr><th scope="row">Auto Pause®</th><td class="yes"></td></tr>
+<tr><th scope="row">Trening interwałowy</th><td class="yes"></td></tr>
+<tr><th scope="row">Zaawansowane treningi</th><td class="yes"></td></tr>
+<tr><th scope="row">Plany treningów do pobrania</th><td class="yes"></td></tr>
+<tr><th scope="row">Tryby zasilania – ustawienia baterii na czas aktywności z możliwością dostosowania</th><td class="yes"></td></tr>
+<tr><th scope="row">HRM running pace and distance</th><td class="yes"></td></tr>
+<tr><th scope="row">Auto Lap®</th><td class="yes"></td></tr>
+<tr><th scope="row">Ręcznie oznaczane okrążenia</th><td class="yes"></td></tr>
+<tr><th scope="row">Konfigurowalne alerty okrążenia</th><td class="yes"></td></tr>
+<tr><th scope="row">Aklimatyzacja do wysokiej temperatury i wysokości</th><td class="yes"></td></tr>
+<tr><th scope="row">VO2 Max (Run)</th><td class="yes"></td></tr>
+<tr><th scope="row">VO2 Max (Trail Run)</th><td class="yes"></td></tr>
+<tr><th scope="row">Wytrzymałość w czasie rzeczywistym</th><td class="yes"></td></tr>
+<tr><th scope="row">Stan wytrenowania</th><td>Ulepszenie </td></tr>
+<tr><th scope="row">Obciążenie treningowe</th><td class="yes"></td></tr>
+<tr><th scope="row">Charakter obciążenia treningowego</th><td class="yes"></td></tr>
+<tr><th scope="row">Efekt treningu (aerobowego)</th><td class="yes"></td></tr>
+<tr><th scope="row">Efekt treningu (beztlenowego)</th><td class="yes"></td></tr>
+<tr><th scope="row">Główna korzyść (etykiety efektu treningu)</th><td class="yes"></td></tr>
+<tr><th scope="row">Ulepszone monitorowanie czasu odpoczynku</th><td class="yes"></td></tr>
+<tr><th scope="row">Polecany trening codzienny</th><td>Ulepszenie </td></tr>
+<tr><th scope="row">Konfigurowalne alerty</th><td class="yes"></td></tr>
+<tr><th scope="row">Monity dźwiękowe</th><td class="yes"></td></tr>
+<tr><th scope="row">Czas ukończenia</th><td class="yes"></td></tr>
+<tr><th scope="row">Virtual Partner</th><td class="yes"></td></tr>
+<tr><th scope="row">Virtual Racer™</th><td class="yes"></td></tr>
+<tr><th scope="row">Automatyczne aktywności Multisport</th><td class="yes"></td></tr>
+<tr><th scope="row">Ręcznie wprowadzane aktywności Multisport</th><td class="yes"></td></tr>
+<tr><th scope="row">Asystent kursu</th><td class="yes"></td></tr>
+<tr><th scope="row">Segmenty (Live, Garmin)</th><td class="yes"></td></tr>
+<tr><th scope="row">Funkcje Strava (Beacon, Live Segments)</th><td class="yes"></td></tr>
+<tr><th scope="row">Kreator kursu trasy powrotnej (bieganie / jazda rowerem)</th><td class="yes"></td></tr>
+<tr><th scope="row">Wyznaczanie popularnych tras Trendline™</th><td class="yes"></td></tr>
+<tr><th scope="row">Blokada ekranu dotykowego i/lub przycisków</th><td class="yes"></td></tr>
+<tr><th scope="row">Przyciski dostępu</th><td class="yes"></td></tr>
+<tr><th scope="row">Autoprzewijanie</th><td class="yes"></td></tr>
+<tr><th scope="row">Historia aktywności w zegarku</th><td class="yes"></td></tr>
+<tr><th scope="row">Physio TrueUp</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje biegowe</h2></td></tr>
+<tr><th scope="row">Dostępne profile biegu</th><td>Bieganie, bieg, bieganie na bieżni, bieganie po torze krytym, bieganie na szlaku, bieganie wirtualne, biegi ultra</td></tr>
+<tr><th scope="row">Pomiar GPS odległości, czasu i tętna</th><td class="yes"></td></tr>
+<tr><th scope="row">Dynamika biegu</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Stosunek ruchu pionowego do ruchu poziomego</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Bilans i czas kontaktu z podłożem</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Długość kroku (na bieżąco)</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Rytm (liczba kroków na minutę na bieżąco)</th><td class="yes"></td></tr>
+<tr><th scope="row">Running Power</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Przygotowanie wydolnościowe</th><td class="yes"></td></tr>
+<tr><th scope="row">Próg mleczanowy</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Strategie tempa PacePro™</th><td class="yes"></td></tr>
+<tr><th scope="row">Treningi biegowe</th><td class="yes"></td></tr>
+<tr><th scope="row">Automatyczne przełączanie między biegiem i wspinaczką</th><td class="yes"></td></tr>
+<tr><th scope="row">Symulator wyścigu</th><td class="yes"></td></tr>
+<tr><th scope="row">Obsługa czujnika prędkości i rytmu (z czujnikiem)</th><td class="yes"></td></tr>
+<tr><th scope="row">Run/Walk/Stand detection</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje golfowe</h2></td></tr>
+<tr><th scope="row">42 000 wgranych pól golfowych z całego świata</th><td class="yes"></td></tr>
+<tr><th scope="row">Odległość do początku, środka i końca greenów</th><td class="yes"></td></tr>
+<tr><th scope="row">Odległość do lay-upów/doglegów</th><td class="yes"></td></tr>
+<tr><th scope="row">Pomiar dystansu uderzenia (oblicza dokładny dystans dla uderzeń wykonanych na polu)</th><td>Automatyczny</td></tr>
+<tr><th scope="row">Cyfrowa tablica wyników</th><td>tak</td></tr>
+<tr><th scope="row">Własne cele</th><td class="yes"></td></tr>
+<tr><th scope="row">Śledzenie statystyk (liczba uderzeń, liczba puttów w rundzie, liczba uderzeń na greeny i fairway'e)</th><td class="yes"></td></tr>
+<tr><th scope="row">Garmin AutoShot™</th><td class="yes"></td></tr>
+<tr><th scope="row">Pełna mapa wektorowa</th><td class="yes"></td></tr>
+<tr><th scope="row">Automatyczne aktualizacje CourseView</th><td class="yes"></td></tr>
+<tr><th scope="row">Funkcja Green View z ręcznym pozycjonowaniem chorągiewki</th><td class="yes"></td></tr>
+<tr><th scope="row">Hazardy i cele na polu golfowym</th><td class="yes"></td></tr>
+<tr><th scope="row">Funkcja PinPointer</th><td class="yes"></td></tr>
+<tr><th scope="row">Dystans PlaysLike</th><td class="yes"></td></tr>
+<tr><th scope="row">Wybieranie celów dotknięciem (po dotknięciu celu na ekranie jest wyświetlany dystans do dowolnego punktu)</th><td class="yes"></td></tr>
+<tr><th scope="row">Wynik handicapu</th><td class="yes"></td></tr>
+<tr><th scope="row">Timer rundowy / licznik dystansu</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność z automatycznym systemem śledzenia kijów golfowych (wymaga odpowiedniego akcesorium)</th><td class="yes"></td></tr>
+<tr><th scope="row">Prędkość i kierunek wiatru (wymaga połączenia z aplikacją golfową)</th><td class="yes"></td></tr>
+<tr><th scope="row">Virtual caddie</th><td class="yes"></td></tr>
+<tr><th scope="row">Oficjalny turniej</th><td class="yes"></td></tr>
+<tr><th scope="row">Poziomice greenów (dla subskrybentów Garmin Golf)</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje dla zajęć na powietrzu</h2></td></tr>
+<tr><th scope="row">Dostępne profile czynności rekreacyjnych w terenie</th><td>Wędrówki, wspinaczka w pomieszczeniach, bouldering, wspinaczka, jazda górska, jazda na nartach, jazda na snowboardzie, biegi narciarskie, SUP, sporty wioślarskie, kajakarstwo, surfing, polowanie, Jumpmaster, aktywności taktyczne, kitesurfing, windsurfing, chodzenie w rakietach śnieżnych</td></tr>
+<tr><th scope="row">Nawigacja od punktu do punktu</th><td class="yes"></td></tr>
+<tr><th scope="row">Elektroniczna ścieżka rejestrowana na bieżąco</th><td class="yes"></td></tr>
+<tr><th scope="row">Wróć do startu</th><td class="yes"></td></tr>
+<tr><th scope="row">TracBack®</th><td class="yes"></td></tr>
+<tr><th scope="row">Tryb UltraTrac</th><td class="yes"></td></tr>
+<tr><th scope="row">Tryb W okolicy</th><td class="yes"></td></tr>
+<tr><th scope="row">Reference point</th><td class="yes"></td></tr>
+<tr><th scope="row">Przed tobą</th><td class="yes"></td></tr>
+<tr><th scope="row">Profil wysokości</th><td class="yes"></td></tr>
+<tr><th scope="row">Dystans do celu</th><td class="yes"></td></tr>
+<tr><th scope="row">Wskaźnik trendu barometru</th><td class="yes"></td></tr>
+<tr><th scope="row">Planowanie wspinaczek ClimbPro™</th><td class="yes"></td></tr>
+<tr><th scope="row">Prędkość pionowa</th><td class="yes"></td></tr>
+<tr><th scope="row">Całkowity wznios/spadek</th><td class="yes"></td></tr>
+<tr><th scope="row">Przyszły wykres wysokości</th><td class="yes"></td></tr>
+<tr><th scope="row">FABRYCZNIE ZAŁADOWANE MAPY TOPOGRAFICZNE</th><td class="yes"></td></tr>
+<tr><th scope="row">Fabrycznie załadowane mapy dróg i szlaków</th><td class="yes"></td></tr>
+<tr><th scope="row">Wgrane mapy kurortów narciarskich</th><td class="yes"></td></tr>
+<tr><th scope="row">Obsługa pobieranych map kartograficznych</th><td class="yes"></td></tr>
+<tr><th scope="row">Współrzędne GPS</th><td class="yes"></td></tr>
+<tr><th scope="row">Celuj i idź</th><td class="yes"></td></tr>
+<tr><th scope="row">Pomiar powierzchni</th><td>Tak (przez Connect IQ™)</td></tr>
+<tr><th scope="row">Kalendarz myśliwski/wędkarski</th><td>Tak (przez Connect IQ™)</td></tr>
+<tr><th scope="row">Odwzorowany punkt trasy</th><td class="yes"></td></tr>
+<tr><th scope="row">Informacje o położeniu słońca i księżyca</th><td>Tak (przez Connect IQ™)</td></tr>
+<tr><th scope="row">Pozycje XERO™</th><td class="yes"></td></tr>
+<tr><th scope="row">Aktywność GPS wyprawy</th><td class="yes"></td></tr>
+<tr><th scope="row">Pływy</th><td>Tak (przez Connect IQ™)</td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje rowerowe</h2></td></tr>
+<tr><th scope="row">Mapa Garmin Cycle Map (mapa dla rowerzystów z możliwością wyznaczania tras)</th><td class="yes"></td></tr>
+<tr><th scope="row">Dostępne profile jazdy rowerem</th><td>Jazda rowerem, jazda rowerem w pomieszczeniu, jazda rowerem górskim, triathlon</td></tr>
+<tr><th scope="row">Alert czasu/dystansu (włącza alarm po osiągnięciu celu)</th><td class="yes"></td></tr>
+<tr><th scope="row">Kursy (współzawodnictwo z poprzednimi aktywnościami)</th><td class="yes"></td></tr>
+<tr><th scope="row">Przewodnik mocy</th><td class="yes"></td></tr>
+<tr><th scope="row">Trudność i płynność jazdy na rowerze górskim</th><td class="yes"></td></tr>
+<tr><th scope="row">Okrążenia rowerowe i maksymalna moc okrążenia (w czujnikiem mocy)</th><td class="yes"></td></tr>
+<tr><th scope="row">Wyścig z aktywnością</th><td class="yes"></td></tr>
+<tr><th scope="row">Współczynnik FTP (Functional Threshold Power)</th><td>Tak (ze zgodnym akcesorium)</td></tr>
+<tr><th scope="row">Power curve and % FTP workouts</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność z urządzeniem Vector</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność z miernikiem mocy (wyświetlanie informacji o mocy ze zgodnych mierników mocy ANT+™ innych producentów)</th><td class="yes"></td></tr>
+<tr><th scope="row">Zaawansowana dynamika jazdy</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność z Varia Vision™ (wyświetlacz montowany na głowie)</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność z radarem Varia™ (radar wsteczny)</th><td class="yes"></td></tr>
+<tr><th scope="row">Zgodność ze światłami Varia™ </th><td class="yes"></td></tr>
+<tr><th scope="row">Kompatybilność z czujnikami prędkości i kadencji</th><td class="yes"></td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje pływackie</h2></td></tr>
+<tr><th scope="row">Dostępne profile pływania</th><td>Pływanie w basenie, pływanie w otwartym akwenie, pływanie/bieganie</td></tr>
+<tr><th scope="row">Dane dotyczące pływania w otwartym akwenie (dystans, tempo, liczba i częstotliwość ruchów, kalorie)</th><td class="yes"></td></tr>
+<tr><th scope="row">Parametry treningu (styl pływania, liczba wymachów, długość basenu)</th><td class="yes"></td></tr>
+<tr><th scope="row">Wykrywanie stylu (dowolny, grzbietowy, klasyczny, motylkowy)</th><td class="yes"></td></tr>
+<tr><th scope="row">Dziennik ćwiczeń</th><td class="yes"></td></tr>
+<tr><th scope="row">Podstawowy licznik czasu odpoczynku (od 0)</th><td class="yes"></td></tr>
+<tr><th scope="row">Licznik czasu odpoczynku z funkcją "Powtarzanie przez"</th><td class="yes"></td></tr>
+<tr><th scope="row">Automatyczny odpoczynek</th><td class="yes"></td></tr>
+<tr><th scope="row">Alerty czasu i dystansu</th><td class="yes"></td></tr>
+<tr><th scope="row">Alerty o tempie (tylko w przypadku pływania na basenie)</th><td class="yes"></td></tr>
+<tr><th scope="row">Włączanie odliczania</th><td class="yes"></td></tr>
+<tr><th scope="row">Treningi pływackie</th><td class="yes"></td></tr>
+<tr><th scope="row">Krytyczna prędkość pływania</th><td class="yes"></td></tr>
+<tr><th scope="row">Nadgarstkowy pomiar tętna pod wodą</th><td class="yes"></td></tr>
+<tr><th scope="row">Tętno (bieżące podczas odpoczynków, statystki interwału i sesji podczas odpoczynków, automatyczne pobieranie danych tętna po pływaniu)</th><td>Tak (z HRM-Tri, HRM-Swim, HRM-Pro lub HRM-Pro Plus)</td></tr>
+<tr class="title"><td colspan="2"><h2>Funkcje monitorowania dzieci</h2></td></tr>
+<tr><th scope="row">Aplikacja Toe-to-Toe™ Challenges</th><td>Tak (opcjonalna aplikacja Toe-to-Toe™ Challenges w Connect IQ)</td></tr>
+<tr class="title"><td colspan="2"><h2>Łączność</h2></td></tr>
+<tr><th scope="row">STEROWANIE TRENAŻEREM SERII SMART</th><td class="yes"></td></tr>
